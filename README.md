@@ -68,7 +68,7 @@ click on settings
 
 ![image](https://user-images.githubusercontent.com/71441089/124026796-c0445380-da0f-11eb-8750-8b02d968511e.png)
 
-Step 2 - click ... (as shown in figure) as select output directory
+Step 2 - click ... (as shown in figure) and select output directory
 
 ![image](https://user-images.githubusercontent.com/71441089/124027097-1913ec00-da10-11eb-804a-2854c2888e95.png)
 
