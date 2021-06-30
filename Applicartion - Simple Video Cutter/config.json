@@ -1,0 +1,49 @@
+{
+  "FFmpegCutProfiles": [
+    {
+      "Name": "lossless",
+      "Arguments": "-codec copy",
+      "FileType": null,
+      "Quality": null,
+      "Step": null
+    }
+  ],
+  "DefaultInitialDirectory": "{UserVideos}",
+  "OutputDirectory": "E:\\Project",
+  "OutputFilePattern": "{FileDate}-{FileNameWithoutExtension}.{Timestamp}{FileExtension}",
+  "FFmpegPath": "D:\\Stony Brook\\Git Project IV\\simple-video-cutter\\src\\SimpleVideoCutter\\bin\\Debug\\ffmpeg.20210628172128\\ffmpeg-4.4-essentials_build\\bin\\ffmpeg.exe",
+  "VideoFilesExtensions": [
+    ".mov",
+    ".avi",
+    ".mp4",
+    ".wmv",
+    ".rm",
+    ".mpg",
+    ".mkv",
+    ".webm"
+  ],
+  "listOfQuality": [
+    "Bad",
+    "Good",
+    "Best"
+  ],
+  "listOfStep": [
+    "Grab And Lift",
+    "Remove the fat",
+    "See Gallbladder",
+    "Look for the triangle",
+    "Critical View of Safety",
+    "Cut the Artery",
+    " Separate gallbladder from liver"
+  ],
+  "HoverPreviewSize": 300,
+  "Mute": false,
+  "Autostart": true,
+  "ShowTaskWindow": false,
+  "SelectedFFmpegCutProfile": "lossless",
+  "MainWindowLocation": "-8, -1088, 1936, 1056",
+  "MainWindowMaximized": false,
+  "RestoreToolbarsLayout": true,
+  "ConfigVersion": "1.0.0",
+  "Language": "en-US"
+}
