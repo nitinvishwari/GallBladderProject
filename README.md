@@ -43,6 +43,30 @@ Perform Cut - click to Start the process of cut
 
 ![image](https://user-images.githubusercontent.com/71441089/124025942-afdfa900-da0e-11eb-835f-baa669f39246.png)
 
-Step 1 - Select the 
+Step 1 - Select the Step of Surgery
+
+![image](https://user-images.githubusercontent.com/71441089/124026487-60e64380-da0f-11eb-8c42-cb33ab4e77d2.png)
+
+Step 2 - Select the quality of Surgery
+
+
+![image](https://user-images.githubusercontent.com/71441089/124026565-79eef480-da0f-11eb-85f6-ffca5b5f21fe.png)
+
+Step 3 - Click on Begin and process will start
+
+
+Change Path of Output Videos - 
+Step 1 - click on settings 
+
+![image](https://user-images.githubusercontent.com/71441089/124026796-c0445380-da0f-11eb-8750-8b02d968511e.png)
+
+Step 2 - click ... (as shown in figure) as select output directory
+
+![image](https://user-images.githubusercontent.com/71441089/124027097-1913ec00-da10-11eb-804a-2854c2888e95.png)
+
+
+Step 3 - press Ok
+
+
 
 
