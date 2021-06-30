@@ -75,6 +75,12 @@ Step 2 - click ... (as shown in figure) and select output directory
 
 Step 3 - press Ok
 
+## Play Speed -
+we can play fast or slow with the help of Mouse Scroll and speed will come in the Bottom Left corner
+
+
+![image](https://user-images.githubusercontent.com/71441089/124029332-a8220380-da12-11eb-9575-a47e75b642a3.png)
+
 
 
 
