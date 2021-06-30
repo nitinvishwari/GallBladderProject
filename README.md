@@ -19,7 +19,8 @@ Step 4 - After Download click close and Enjoy!
 
 # Functionality
 
-## OpenFile - Cleck in open file and open the video which you want to cut
+## OpenFile -
+Cleck in open file and open the video which you want to cut
 
 
 ![image](https://user-images.githubusercontent.com/71441089/124025059-9e49d180-da0d-11eb-88af-0bfd6fdeea68.png)
