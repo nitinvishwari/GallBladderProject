@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "R19f5q7vHmsItyH015EZmOB/Erp0NQQhckSThdY0KN48cEeQHUNgjn1mmybmXd/+e8gSNQOk1f/sjBIQmQ/yfw==",
+  "success": true,
+  "projectFilePath": "D:\\Stony Brook\\Git Project IV\\simple-video-cutter\\src\\SimpleVideoCutter\\SimpleVideoCutter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kunal\\.nuget\\packages\\libvlcsharp\\3.5.0\\libvlcsharp.3.5.0.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\libvlcsharp.winforms\\3.5.0\\libvlcsharp.winforms.3.5.0.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.2\\microsoft.netcore.platforms.5.0.2.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\octokit\\0.50.0\\octokit.0.50.0.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\videolan.libvlc.windows\\3.0.14\\videolan.libvlc.windows.3.0.14.nupkg.sha512",
+    "C:\\Users\\kunal\\.nuget\\packages\\xffmpeg.net\\3.4.0\\xffmpeg.net.3.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
