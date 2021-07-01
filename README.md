@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1We6B5WobskAJ8ZVN-mnILcqwdROV5UMt/view?usp=shari
 
 Step 2 - Extraxt the Zip and Go inside the folder name "Application - Simple Video Cutter". Now click on the SimpleVideoCutter file -
 
-Note - Pop may come of unaunthentic sources but choose to select run anyaway.
+Note - Popup may come of unaunthentic sources but choose to select run anyaway.
 
 
 
