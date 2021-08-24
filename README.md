@@ -52,14 +52,14 @@ click to Start the process of cut
 
 Step 1 - Select the Step of Surgery
 
-![image](https://user-images.githubusercontent.com/71441089/124026487-60e64380-da0f-11eb-8c42-cb33ab4e77d2.png)
 
 Step 2 - Select the quality of Surgery
 
+Step 3 - Select the quality of Surgery
 
-![image](https://user-images.githubusercontent.com/71441089/124026565-79eef480-da0f-11eb-85f6-ffca5b5f21fe.png)
+Step 4 - Select the quality of Surgery
 
-Step 3 - Click on Begin and process will start
+Step 5 - Click on Begin and process will start
 
 
 ## Change Path of Output Videos - 
