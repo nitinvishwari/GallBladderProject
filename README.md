@@ -51,13 +51,20 @@ click to Start the process of cut
 ![image](https://user-images.githubusercontent.com/71441089/124025942-afdfa900-da0e-11eb-835f-baa669f39246.png)
 
 Step 1 - Select the Step of Surgery
+![image](https://user-images.githubusercontent.com/71441089/130540138-7df9f7ce-1f51-42e7-ae33-375cf3fef962.png)
 
 
 Step 2 - Select the quality of Surgery
+![image](https://user-images.githubusercontent.com/71441089/130540187-a7112bee-1b3b-47c1-a8f1-1d6e3f94d59c.png)
 
-Step 3 - Select the quality of Surgery
 
-Step 4 - Select the quality of Surgery
+Step 3 - Select the difficulty of Surgery
+![image](https://user-images.githubusercontent.com/71441089/130540243-5e1ccb7a-063c-4937-9faf-c8dcc73733c0.png)
+
+
+Step 4 - Select the expertise of Surgeon
+![image](https://user-images.githubusercontent.com/71441089/130540339-9d2915e4-5934-4904-96e6-f51a38278f3a.png)
+
 
 Step 5 - Click on Begin and process will start
 
