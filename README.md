@@ -62,6 +62,8 @@ Step 3 - Click on Begin and process will start
 
 ## Grade Complete Surgery - 
 click to Grade Surgery
+![image](https://user-images.githubusercontent.com/71441089/131272362-560d35d0-d8a7-4315-b63d-b7a41fa2912f.png)
+
 
 Step 1 - Select the Quality Of Surgery
 ![image](https://user-images.githubusercontent.com/71441089/131272094-6aea3436-994b-477e-a609-1fa157d75e9e.png)
