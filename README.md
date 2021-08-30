@@ -51,22 +51,33 @@ click to Start the process of cut
 ![image](https://user-images.githubusercontent.com/71441089/124025942-afdfa900-da0e-11eb-835f-baa669f39246.png)
 
 Step 1 - Select the Step of Surgery
-![image](https://user-images.githubusercontent.com/71441089/130540138-7df9f7ce-1f51-42e7-ae33-375cf3fef962.png)
+![image](https://user-images.githubusercontent.com/71441089/131272223-e49719ff-c2ea-45a6-ac35-95afd803bcbe.png)
+
+Step 2 - Select the quality of Step
+![image](https://user-images.githubusercontent.com/71441089/131272260-aa4ea343-706a-48da-9b7a-9d678c60e54e.png)
 
 
-Step 2 - Select the quality of Surgery
-![image](https://user-images.githubusercontent.com/71441089/130540187-a7112bee-1b3b-47c1-a8f1-1d6e3f94d59c.png)
+Step 3 - Click on Begin and process will start
 
 
-Step 3 - Select the difficulty of Surgery
-![image](https://user-images.githubusercontent.com/71441089/130540243-5e1ccb7a-063c-4937-9faf-c8dcc73733c0.png)
+## Grade Complete Surgery - 
+click to Grade Surgery
+
+Step 1 - Select the Quality Of Surgery
+![image](https://user-images.githubusercontent.com/71441089/131272094-6aea3436-994b-477e-a609-1fa157d75e9e.png)
 
 
-Step 4 - Select the expertise of Surgeon
-![image](https://user-images.githubusercontent.com/71441089/130540339-9d2915e4-5934-4904-96e6-f51a38278f3a.png)
+Step 2 - Select the difficulty of Surgery
+![image](https://user-images.githubusercontent.com/71441089/131272150-9b3adba7-9f25-4e8a-9daa-070639689a12.png)
 
 
-Step 5 - Click on Begin and process will start
+
+Step 3 - Select the expertise of Surgeon
+![image](https://user-images.githubusercontent.com/71441089/131272194-e19efd24-2a5f-4b29-9aba-a817d8d4f917.png)
+
+
+
+Step 4 - Click on Submit and we will add data to the csv file in the output folder location
 
 
 ## Change Path of Output Videos - 
