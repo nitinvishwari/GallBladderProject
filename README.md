@@ -2,7 +2,7 @@
 
 Step 1 - Download the file by using below link
 
-https://drive.google.com/file/d/174-UdlIm1-HREwLllnQ3P0mDzEH2uK7Y/view?usp=sharing
+https://drive.google.com/file/d/1G6P5s6OQh4xQ6soZFTtuxuSbh5Vl61Ni/view?usp=sharing
 
 Step 2 - Extract the Zip and Go inside the folder name "Application - Simple Video Cutter". Now click on the SimpleVideoCutter file -
 
